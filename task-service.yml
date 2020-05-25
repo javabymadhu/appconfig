@@ -2,9 +2,9 @@ spring:
   application:
     name: task-service
   datasource:
-    url: jdbc:mysql://localhost:3306/tasks
-    username: root
-    password: C0dingS@int
+    url: jdbc:mysql://localhost:3306/empdb
+    username: taskdb
+    password: password
     
   jpa:
     generate-ddl: true
