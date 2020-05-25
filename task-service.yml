@@ -2,8 +2,8 @@ spring:
   application:
     name: task-service
   datasource:
-    url: jdbc:mysql://localhost:3306/empdb
-    username: taskdb
+    url: jdbc:mysql://localhost:3306/madhudb
+    username: empdb
     password: password
     
   jpa:
