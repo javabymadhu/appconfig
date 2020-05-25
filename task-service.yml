@@ -2,7 +2,7 @@ spring:
   application:
     name: task-service
   datasource:
-    url: jdbc:mysql://localhost:3306/taskdatabas
+    url: jdbc:mysql://localhost:3306/taskdatabase
     username: root
     password: 
     
